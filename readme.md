@@ -3,11 +3,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.:    670610696
 
-ชื่อ-สกุล :
+ชื่อ-สกุล :    ธนกร ช่างเหล็ก
 
-GitHub Page URL :
+GitHub Page URL :   https://cpe207-2568.github.io/lab07v2-Phemenon/
 
 ---
 
